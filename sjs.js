@@ -365,7 +365,7 @@ class JSExtension {
 							defaultValue: 'Minecraft'
 						},
 						REGEX: {
-							type: Scratcj.ArgumentType.STRING,
+							type: Scratch.ArgumentType.STRING,
 							defaultValue: '^[a-zA-Z]+$'
 						}
 					}
@@ -391,7 +391,7 @@ class JSExtension {
 							defaultValue: 'https://www.example.com/api'
 						},
 						DATA: {
-							type: Scratcj.ArgumentType.STRING,
+							type: Scratch.ArgumentType.STRING,
 							defaultValue: 'name=XMLHttpRequest&value=1'
 						}
 					}
@@ -406,7 +406,7 @@ class JSExtension {
 							defaultValue: 'https://www.example.com/api'
 						},
 						DATA: {
-							type: Scratcj.ArgumentType.STRING,
+							type: Scratch.ArgumentType.STRING,
 							defaultValue: 'name=XMLHttpRequest&value=1'
 						}
 					}
